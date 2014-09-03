@@ -17,7 +17,6 @@
     my $replace = '';
     my $array_ref;
 
-    
     my $lines = '';
 
     #loop through file and identifil numeric '0000' with 'RAW' in string
